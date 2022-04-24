@@ -94,3 +94,4 @@ async def main(phone):
 
 with client:
     client.loop.run_until_complete(main(phone))
+
